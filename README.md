@@ -25,9 +25,9 @@ I have basic knowledge of java with no experience of developing.And I lack of th
 
 The plan is to graduate from university first.As a large part of knowledge will not be taught in college, I should keep learning new skills and technologies.Finding suitable jobs of developing in java to accumulate experience until being ready for this position.
 
-Below is the link of the jon ad:
+Below is the link of the job ad:
 https://www.seek.com.au/job/38576816?type=standard&searchrequesttoken=e224b17f-eb12-47a1-990f-805ede752db1
-
+![Image of job ad](https://s3688540.github.com/images/ideal job ad.png)
 
 ### Personal Profile
 These tests help me know myself better.My personality, my daily behaviors, my style of studying.The results can be the guidance of my behavior to some degree.Although there are some points in the result are against the fact, I could think about the reasons and learn more about myself and other people.
