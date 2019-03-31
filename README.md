@@ -26,7 +26,7 @@ I have basic knowledge of java with no experience of developing.And I lack of th
 The plan is to graduate from university first.As a large part of knowledge will not be taught in college, I should keep learning new skills and technologies.Finding suitable jobs of developing in java to accumulate experience until being ready for this position.
 
 Below is the link of the job ad:
-https://www.seek.com.au/job/38576816?type=standard&searchrequesttoken=e224b17f-eb12-47a1-990f-805ede752db1
+https://www.seek.com.au/job/38576816?type=standard&searchrequesttoken=e224b17f-eb12-47a1-990f-805ede752db1 - automatic!
 ![ideal job ad](https://user-images.githubusercontent.com/41512296/55288131-d6ad7000-53fe-11e9-93b1-96c2a2e1ce83.PNG)
 
 ### Personal Profile
