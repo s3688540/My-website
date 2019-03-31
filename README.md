@@ -27,15 +27,23 @@ The plan is to graduate from university first.As a large part of knowledge will 
 
 Below is the link of the job ad:
 https://www.seek.com.au/job/38576816?type=standard&searchrequesttoken=e224b17f-eb12-47a1-990f-805ede752db1
-
-![Image of job ad](https://s3688540.github.com/images/ideal job ad.png)
+![ideal job ad](https://user-images.githubusercontent.com/41512296/55288131-d6ad7000-53fe-11e9-93b1-96c2a2e1ce83.PNG)
 
 ### Personal Profile
+Myers-Briggs test result:
+![Myers-Briggs test result](https://user-images.githubusercontent.com/41512296/55288156-11afa380-53ff-11e9-9aec-f9e105817165.PNG)
+
+learning style test result:
+![learning style test result(1)](https://user-images.githubusercontent.com/41512296/55288175-576c6c00-53ff-11e9-9891-e1ae6722bbd4.PNG)
+
+[big five personality test result/:
+![big five personality test(1)](https://user-images.githubusercontent.com/41512296/55288184-72d77700-53ff-11e9-86bd-b86d4541c120.PNG)
+
 These tests help me know myself better.My personality, my daily behaviors, my style of studying.The results can be the guidance of my behavior to some degree.Although there are some points in the result are against the fact, I could think about the reasons and learn more about myself and other people.
 
 I usually tend to play a role that is not what I am good at and do something that is actually beyond my ability which harm my performance in the team. I should think about what is the best role I can play in a team combined with the test results which is helpful to be active and fit well in a team.Thus, I would change my behaviour according to the test results to see the benefits.
    
-When forming a team, I will keep the diversity and try not to bring in too much disagreements and conflicts.The team should be able to cooperate with each other well but not lacking the creativity.I will take members’ ability, personality and other features into consideration when assigning tasks and also respect their will.
+When forming a team, I will keep the diversity and try not to bring in too much disagreements and conflicts.The team members should be able to cooperate with each other well but not lacking the creativity.I will take members’ ability, personality and other features into consideration when assigning tasks and also respect their will.
 
 
 ### Project ideas
