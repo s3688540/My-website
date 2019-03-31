@@ -21,9 +21,9 @@ It is a position that developing software with java onsite.The pay is $650 - $85
 
 This position requires several technical experience.You should have the experience of java development including Maven.You should have the experience of cloud service, AWS or Azure is better.You should have the ability of continuous delivery using Jenkins2.You should have the experience of Microservices, RESTful using JSON, AWS and Lambda.You should be familiar with Atlassian Software Development Suite (eg Bitbucket, JIRA, Confluence, Bamboo).And being familiar with Automation(eg Container Orchestration with either Kubernetes or Docker Swarm) would be an advantage to get this position.No academic diplomas required.
 
-I have basic knowledge of java with no experience of developing.And I lack of the skills and other experience required in this position.
+I have basic knowledge of java with no experience of developing, limited understanding and knowledge of cloud services.And I lack of the skills and other working experience required in this position.
 
-The plan is to graduate from university first.As a large part of knowledge will not be taught in college, I should keep learning new skills and technologies.Finding suitable jobs of developing in java to accumulate experience until being ready for this position.
+The plan is to graduate from university first.As a large part of knowledge will not be taught in college, I will learn new skills and technologies in my spare time when in college.After graduation, I plan to find suitable jobs of developing in java to accumulate experience until being ready for this position.And I will keep focusing on the relevant skills and technologies.This may take me at least 5 years to be competitive in this position. 
 
 Below is the link of the job ad:
 https://www.seek.com.au/job/38576816?type=standard&searchrequesttoken=e224b17f-eb12-47a1-990f-805ede752db1 - automatic!
@@ -33,17 +33,23 @@ https://www.seek.com.au/job/38576816?type=standard&searchrequesttoken=e224b17f-e
 Myers-Briggs test result:
 ![Myers-Briggs test result](https://user-images.githubusercontent.com/41512296/55288156-11afa380-53ff-11e9-9aec-f9e105817165.PNG)
 
+I am kind of idealistic.I will look in a good way even when in bad situation and make efforts to make things better.I act reserved but have inner passion.When meet with like-minded people, we can develop a harmonious relationship.
+
 learning style test result:
 ![learning style test result(1)](https://user-images.githubusercontent.com/41512296/55288175-576c6c00-53ff-11e9-9891-e1ae6722bbd4.PNG)
+
+As a visual learner, I can efficiently learn by reading or seeing picture.Visual content are most helpful for me to memorize and understand the contained knowledge.It is easy for me to picture thing in my head which helps my study.I am recommended to visualize what people say and the sounds I heard, which contributes my visual ability.Drawing pictures is also helpful.And I need to avoid distractions when studying.
 
 [big five personality test result/:
 ![big five personality test(1)](https://user-images.githubusercontent.com/41512296/55288184-72d77700-53ff-11e9-86bd-b86d4541c120.PNG)
 
+The first factor shows my introversion, I do not like social activities.The second one shows that I might have emotional fluctuations sometimes.Being high in agreeableness means I’m friendly and optimistic. And the last two factors shows that I am kind of diligent and careful but lack imagination.
+
 These tests help me know myself better.My personality, my daily behaviors, my style of studying.The results can be the guidance of my behavior to some degree.Although there are some points in the result are against the fact, I could think about the reasons and learn more about myself and other people.
 
-I usually tend to play a role that is not what I am good at and do something that is actually beyond my ability which harm my performance in the team. I should think about what is the best role I can play in a team combined with the test results which is helpful to be active and fit well in a team.Thus, I would change my behaviour according to the test results to see the benefits.
+I usually tend to play a role that is not what I am good at and do something that is actually beyond my ability which harm my performance in the team. I should think about what is the best role I can play in a team combined with the test results which is helpful to be active and fit well in a team.Thus, I would change my behaviour according to the test results to see the benefits.I will continue to stay positive but try to be less idealistic to avoid subjective judgement.And it is important for me to improve social abilities.
    
-When forming a team, I will keep the diversity and try not to bring in too much disagreements and conflicts.The team members should be able to cooperate with each other well but not lacking the creativity.I will take members’ ability, personality and other features into consideration when assigning tasks and also respect their will.
+When forming a team, I will keep the diversity and try not to bring in too much disagreements and conflicts.Thus, people with different characteristics are needed.The team members should be able to cooperate with each other well but not lacking the creativity.To make full use of members’ advantages, I will take members’ ability, personality and other features into consideration when forming the team and also respect their will.Competitions are allowed as long as it does not harm the operation of the team.While the extremists are not welcomed. 
 
 
 ### Project ideas
